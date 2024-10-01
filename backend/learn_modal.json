@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "deploy TTS model", 
+        "deploy STT model",
+        "chain TTS and STT models",
+        "build lyla"
+    ]
+}
